@@ -1,0 +1,42 @@
+#contenedor {
+    width: 90%;
+    margin: auto;
+    background-color: #7D7D7D;
+    padding: 20px;
+}
+
+
+#encabezado {
+    background-color: #EFD80E;
+    text-align: center;
+    align-self: center;
+    padding: 20px;
+}
+
+#menu {
+    background-color: #646464;
+    text-align: center;
+    padding: 20px;
+}
+
+
+#derecha {
+    width: 80%;
+    float: right;
+    background-color: #B4B3A8;
+    padding: 20px;
+}
+
+#izquierda {
+    width: 16%;
+    float: left;
+    background-color: #646464;
+}
+
+#piepagina {
+    clear: both;
+    background-color: #8F0884;
+    padding: 20px;
+}
+
+
